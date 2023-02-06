@@ -1,5 +1,5 @@
-nul > 1.txt
-nul > 2.txt
-nul > 3.txt
-nul > 4.txt
-nul > 5.txt
+cd.> 1.txt
+cd.> 2.txt
+cd.> 3.txt
+cd.> 4.txt
+cd.> 5.txt
